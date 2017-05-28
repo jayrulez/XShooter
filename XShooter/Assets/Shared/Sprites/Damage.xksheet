@@ -1,0 +1,71 @@
+!SpriteSheet
+Id: b60ed2f6-e94f-4111-853b-46d3c5d04de9
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    f5b20977b14814079ac66c347c4ceeba:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip1_damage1.png
+        Name: playerShip1_damage1
+        TextureRegion: {X: 0, Y: 0, Width: 99, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    eccbed41ce20e9704994f40fd01893d4:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip1_damage2.png
+        Name: playerShip1_damage2
+        TextureRegion: {X: 0, Y: 0, Width: 99, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9d2cb864bf58ae5d1f3f2d32defcd3bf:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip1_damage3.png
+        Name: playerShip1_damage3
+        TextureRegion: {X: 0, Y: 0, Width: 100, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    087670f379e1e15dcc7e0c3d12243a54:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip2_damage1.png
+        Name: playerShip2_damage1
+        TextureRegion: {X: 0, Y: 0, Width: 111, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d296c076049ad592004ebbc3dde97e5d:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip2_damage2.png
+        Name: playerShip2_damage2
+        TextureRegion: {X: 0, Y: 0, Width: 112, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b389038e1f81663588820c934a708273:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip2_damage3.png
+        Name: playerShip2_damage3
+        TextureRegion: {X: 0, Y: 0, Width: 112, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    af88a47faf05585dc6cc6623a8d62a32:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip3_damage1.png
+        Name: playerShip3_damage1
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fb5ae7907541d87cb45d60fc8611535e:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip3_damage2.png
+        Name: playerShip3_damage2
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    613272f436046dc59eb438b563dbe3dc:
+        Source: ../../../../Resources/spaceshooter/PNG/Damage/playerShip3_damage3.png
+        Name: playerShip3_damage3
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

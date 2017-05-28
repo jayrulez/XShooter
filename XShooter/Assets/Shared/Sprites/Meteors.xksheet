@@ -1,0 +1,148 @@
+!SpriteSheet
+Id: 84473ab0-4f80-41b2-8279-938400231eaf
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    60d6d0b7e08ca2806baccae3a240f21b:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_big1.png
+        Name: meteorBrown_big1
+        TextureRegion: {X: 0, Y: 0, Width: 101, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0a45b398224dc7462fcdc909a82aa4cb:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_big2.png
+        Name: meteorBrown_big2
+        TextureRegion: {X: 0, Y: 0, Width: 120, Height: 98}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9aaf4326f4b7aa7ff069c976c5f5bc99:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_big3.png
+        Name: meteorBrown_big3
+        TextureRegion: {X: 0, Y: 0, Width: 89, Height: 82}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5b8a8d8b2817146c76c64662812f793a:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_big4.png
+        Name: meteorBrown_big4
+        TextureRegion: {X: 0, Y: 0, Width: 98, Height: 96}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d6a1eff58e01ba58df9b562c491a515d:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_med1.png
+        Name: meteorBrown_med1
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 43}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8fdb408dcb05826dd5b580eba34b05b2:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_med3.png
+        Name: meteorBrown_med3
+        TextureRegion: {X: 0, Y: 0, Width: 45, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    60427dc3b8200dac870ea0a3f3064161:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_small1.png
+        Name: meteorBrown_small1
+        TextureRegion: {X: 0, Y: 0, Width: 28, Height: 28}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    50b2d3b2455aea123ca0e30ab7ec54ae:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_small2.png
+        Name: meteorBrown_small2
+        TextureRegion: {X: 0, Y: 0, Width: 29, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ec4a65ce44f0d94d911bba118aa3e82f:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_tiny1.png
+        Name: meteorBrown_tiny1
+        TextureRegion: {X: 0, Y: 0, Width: 18, Height: 18}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b7aaa56d46eb0716043dd7782acb58bb:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorBrown_tiny2.png
+        Name: meteorBrown_tiny2
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 15}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2f594624f50ac4d701539cc101a9a6f5:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_big1.png
+        Name: meteorGrey_big1
+        TextureRegion: {X: 0, Y: 0, Width: 101, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b77b120bbd965a6d76dc50a670249f95:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_big2.png
+        Name: meteorGrey_big2
+        TextureRegion: {X: 0, Y: 0, Width: 120, Height: 98}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5cc8db9994e91ea87d0c4a4ef850005d:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_big3.png
+        Name: meteorGrey_big3
+        TextureRegion: {X: 0, Y: 0, Width: 89, Height: 82}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7c7bf42f74aa2a5ad77b2f85c49a88bf:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_big4.png
+        Name: meteorGrey_big4
+        TextureRegion: {X: 0, Y: 0, Width: 98, Height: 96}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6a792e98ef55474c2c6344416de3dc20:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_med1.png
+        Name: meteorGrey_med1
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 43}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    76ef4554cd9ca9c53a0cdb5be32d97c7:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_med2.png
+        Name: meteorGrey_med2
+        TextureRegion: {X: 0, Y: 0, Width: 45, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4a6b674111cb9506b55ce5e2c2c4daca:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_small1.png
+        Name: meteorGrey_small1
+        TextureRegion: {X: 0, Y: 0, Width: 28, Height: 28}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    eb6770dfb683171dfc7d242f2c4b102a:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_small2.png
+        Name: meteorGrey_small2
+        TextureRegion: {X: 0, Y: 0, Width: 29, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5674a472e28adc6d296f32fd35554e37:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_tiny1.png
+        Name: meteorGrey_tiny1
+        TextureRegion: {X: 0, Y: 0, Width: 18, Height: 18}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c5a12c01f35f521df522cb89bb5d2909:
+        Source: ../../../../Resources/spaceshooter/PNG/Meteors/meteorGrey_tiny2.png
+        Name: meteorGrey_tiny2
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 15}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

@@ -1,0 +1,29 @@
+!SpriteSheet
+Id: 875159b9-a2fe-456f-a61d-1beddaa28d90
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    26c1fddf7bbd54591ff2477cc650d254:
+        Source: ../../../../Resources/spaceshooter/PNG/ufoGreen.png
+        Name: ufoGreen
+        TextureRegion: {X: 0, Y: 0, Width: 91, Height: 91}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7113a175bf426c46b39f2863ae0936be:
+        Source: ../../../../Resources/spaceshooter/PNG/ufoRed.png
+        Name: ufoRed
+        TextureRegion: {X: 0, Y: 0, Width: 91, Height: 91}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f8796f9f9bd90359fbfe78e434ae3d24:
+        Source: ../../../../Resources/spaceshooter/PNG/ufoYellow.png
+        Name: ufoYellow
+        TextureRegion: {X: 0, Y: 0, Width: 91, Height: 91}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

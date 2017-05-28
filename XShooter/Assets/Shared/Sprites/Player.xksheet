@@ -1,0 +1,92 @@
+!SpriteSheet
+Id: fb18a84c-07aa-4531-a009-b5b021915303
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    e0176ae0f5b95219e0a10df37dc77714:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip1_blue.png
+        Name: playerShip1_blue
+        TextureRegion: {X: 0, Y: 0, Width: 99, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    feb29a770057408f7522266cb0b6ab6e:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip1_green.png
+        Name: playerShip1_green
+        TextureRegion: {X: 0, Y: 0, Width: 99, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    093b70494c05e3ac5cd2d777e9bd5bf9:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip1_orange.png
+        Name: playerShip1_orange
+        TextureRegion: {X: 0, Y: 0, Width: 99, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7f8cdd88145657e7b584a43b788faf91:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip1_red.png
+        Name: playerShip1_red
+        TextureRegion: {X: 0, Y: 0, Width: 99, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1bc4d04f3cb99fb67fe6cae0a5cabaec:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip2_blue.png
+        Name: playerShip2_blue
+        TextureRegion: {X: 0, Y: 0, Width: 112, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ebdcbe693236879ac213e8d32cf28a3b:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip2_green.png
+        Name: playerShip2_green
+        TextureRegion: {X: 0, Y: 0, Width: 112, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6712b8467f0922ca98c927320aed270b:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip2_orange.png
+        Name: playerShip2_orange
+        TextureRegion: {X: 0, Y: 0, Width: 112, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    327e6fa056f305a5b6363bb4240cc2a9:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip2_red.png
+        Name: playerShip2_red
+        TextureRegion: {X: 0, Y: 0, Width: 112, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    839f7ba2259604ff285ea2f036327b1b:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip3_blue.png
+        Name: playerShip3_blue
+        TextureRegion: {X: 0, Y: 0, Width: 98, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    32240ab3844a59062e67556c995b6339:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip3_green.png
+        Name: playerShip3_green
+        TextureRegion: {X: 0, Y: 0, Width: 98, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    97b2d18f822debd92b78a99e077ef298:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip3_orange.png
+        Name: playerShip3_orange
+        TextureRegion: {X: 0, Y: 0, Width: 98, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    08ab9345e2f007b1cd36e6a467f7add9:
+        Source: ../../../../Resources/spaceshooter/PNG/playerShip3_red.png
+        Name: playerShip3_red
+        TextureRegion: {X: 0, Y: 0, Width: 98, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

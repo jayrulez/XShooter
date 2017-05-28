@@ -1,0 +1,8 @@
+!Sound
+Id: ca2e3f53-2cf5-4185-ac5f-9cffecd6e5b5
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/explosion.mp3
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

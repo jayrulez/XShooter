@@ -1,0 +1,8 @@
+!Sound
+Id: c3b75b44-b5d4-4ef8-ae92-b0aa81cefec4
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/spaceshooter/Bonus/sfx_lose.ogg
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

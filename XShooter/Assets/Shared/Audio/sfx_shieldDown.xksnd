@@ -1,0 +1,8 @@
+!Sound
+Id: 530c01bf-4032-407d-b919-6a4548ebc056
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/spaceshooter/Bonus/sfx_shieldDown.ogg
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

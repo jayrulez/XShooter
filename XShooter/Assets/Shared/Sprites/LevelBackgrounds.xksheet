@@ -1,0 +1,72 @@
+!SpriteSheet
+Id: f2cbe1a6-6300-4686-9064-59586684e349
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    7ba9e8e1d79f0023792cc992404b051c:
+        Source: ../../../../Resources/backgrounds/space art 1.jpg
+        Name: space art 1
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderModeV: Wrap
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    453006c70f46b744136281c125d6776e:
+        Source: ../../../../Resources/backgrounds/space art 2.jpg
+        Name: space art 2
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d8a302d9d5d2fa5ccf29525a389c8383:
+        Source: ../../../../Resources/backgrounds/space art 3.jpg
+        Name: space art 3
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a23388643ebf427fdf0d59b6e88d1807:
+        Source: ../../../../Resources/backgrounds/space art 4.jpg
+        Name: space art 4
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    eda4150cb099f44cbad0ccbe75f110cc:
+        Source: ../../../../Resources/backgrounds/space art 5.jpg
+        Name: space art 5
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3474a444ac5357ac32b60d123f003ab6:
+        Source: ../../../../Resources/backgrounds/space art 6.jpg
+        Name: space art 6
+        TextureRegion: {X: 0, Y: 0, Width: 2560, Height: 1440}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ad66282b28c0fdbc56094c23ef3dd5a4:
+        Source: ../../../../Resources/backgrounds/space art 7.jpg
+        Name: space art 7
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    07f4d7e9e6b7ff7321c741c60672b0a9:
+        Source: ../../../../Resources/backgrounds/space art 8.jpg
+        Name: space art 8
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    84f2e245b1a20ca2c5c92cf9a50769a2:
+        Source: ../../../../Resources/backgrounds/space art 9.png
+        Name: space art 9
+        TextureRegion: {X: 0, Y: 0, Width: 480, Height: 800}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

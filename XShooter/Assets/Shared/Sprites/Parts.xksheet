@@ -1,0 +1,666 @@
+!SpriteSheet
+Id: 8bc44a5b-d720-4b22-9042-faff9c0b5b9b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    9fe815ea6f3904b5ab44ff9868ae4869:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam0.png
+        Name: beam0
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2dae78bf6a85b02ace54d0bf889fea20:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam1.png
+        Name: beam1
+        TextureRegion: {X: 0, Y: 0, Width: 40, Height: 20}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a2010bdf57b0570cc037bf4624fc8c81:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam2.png
+        Name: beam2
+        TextureRegion: {X: 0, Y: 0, Width: 38, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    76fa016c6ce1b48183c0ec3384577cb6:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam3.png
+        Name: beam3
+        TextureRegion: {X: 0, Y: 0, Width: 29, Height: 29}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3bb618108accffc6f6a751f9cf08f5cf:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam4.png
+        Name: beam4
+        TextureRegion: {X: 0, Y: 0, Width: 41, Height: 17}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4c3b62cdc3ace2fa7f6b78f67373edbc:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam5.png
+        Name: beam5
+        TextureRegion: {X: 0, Y: 0, Width: 40, Height: 25}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f9098818798007d543768d6f505d9eca:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beam6.png
+        Name: beam6
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 23}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d432e7c97c8769c1c7d76a7c45c66cbd:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beamLong1.png
+        Name: beamLong1
+        TextureRegion: {X: 0, Y: 0, Width: 15, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    330a1795dbd12a15b515f4a7c091f71e:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/beamLong2.png
+        Name: beamLong2
+        TextureRegion: {X: 0, Y: 0, Width: 25, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0ddc456a460acb2a7fcf63fb2469042e:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_0.png
+        Name: cockpitBlue_0
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f60cd396ab4bae1bdecb1003077229bf:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_1.png
+        Name: cockpitBlue_1
+        TextureRegion: {X: 0, Y: 0, Width: 40, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    57ba168226a8b5c987685ab364ee0940:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_2.png
+        Name: cockpitBlue_2
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 56}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9f0825d46d0d3713207488fd9aaca338:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_3.png
+        Name: cockpitBlue_3
+        TextureRegion: {X: 0, Y: 0, Width: 60, Height: 61}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    32648d20b65ea5e95d2c042049f1a0df:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_4.png
+        Name: cockpitBlue_4
+        TextureRegion: {X: 0, Y: 0, Width: 47, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    309c96ec2dc0ef5a87602149508f5071:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_5.png
+        Name: cockpitBlue_5
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0ee583b9bfb334432aa510e668f3dbb5:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_6.png
+        Name: cockpitBlue_6
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    07e930102eb5d3680a38e7667f794611:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitBlue_7.png
+        Name: cockpitBlue_7
+        TextureRegion: {X: 0, Y: 0, Width: 41, Height: 71}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    04fc5ced7237d9f9a8e3b3baece4b674:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_0.png
+        Name: cockpitGreen_0
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4e62e066b5ce4d6da79b3262596dbdd0:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_1.png
+        Name: cockpitGreen_1
+        TextureRegion: {X: 0, Y: 0, Width: 40, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2c1b39d60943ca39ecaa5bcf9cb4ee6a:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_2.png
+        Name: cockpitGreen_2
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 56}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8e139e6c91d758a7e0bf462adf9f38e8:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_3.png
+        Name: cockpitGreen_3
+        TextureRegion: {X: 0, Y: 0, Width: 60, Height: 61}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    43c609c1c7b24d06d628f09dd641b7af:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_4.png
+        Name: cockpitGreen_4
+        TextureRegion: {X: 0, Y: 0, Width: 47, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    12048eadf2c74eac46993627097d5981:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_5.png
+        Name: cockpitGreen_5
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ebaba8b1811e3c1bedf0b9096a035118:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_6.png
+        Name: cockpitGreen_6
+        TextureRegion: {X: 0, Y: 0, Width: 41, Height: 71}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d4b18accbea296975a02fa5ccfab2536:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitGreen_7.png
+        Name: cockpitGreen_7
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    eac84d14b745a5a11868c63f2184b4bd:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_0.png
+        Name: cockpitRed_0
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    75aa79cbc5abefc3af8980820e33dd66:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_1.png
+        Name: cockpitRed_1
+        TextureRegion: {X: 0, Y: 0, Width: 40, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cce3fe37d52560031f66ba6551137b7e:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_2.png
+        Name: cockpitRed_2
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 56}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    167cad0e02b36f7f94d8ce63d06eea79:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_3.png
+        Name: cockpitRed_3
+        TextureRegion: {X: 0, Y: 0, Width: 60, Height: 61}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ab0d9bfd7bb715b7ff3ef25a5833f612:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_4.png
+        Name: cockpitRed_4
+        TextureRegion: {X: 0, Y: 0, Width: 47, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    52db0f02d72c6772ae036d7b045b8b14:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_5.png
+        Name: cockpitRed_5
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7c0953b5b3bea06bc7581b1b0ef28077:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_6.png
+        Name: cockpitRed_6
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    744194be362bc8ff5d35939df6a32d9c:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitRed_7.png
+        Name: cockpitRed_7
+        TextureRegion: {X: 0, Y: 0, Width: 41, Height: 71}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7ce488f9daf49d3e70232e938183f2a7:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_0.png
+        Name: cockpitYellow_0
+        TextureRegion: {X: 0, Y: 0, Width: 40, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f5508bbe90c33cebd68d583036d02298:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_1.png
+        Name: cockpitYellow_1
+        TextureRegion: {X: 0, Y: 0, Width: 60, Height: 61}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    16eea90a3640dbfab825c47f1cfa211c:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_2.png
+        Name: cockpitYellow_2
+        TextureRegion: {X: 0, Y: 0, Width: 47, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7492d7e6dea9ee8f8a550afc1039abfb:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_3.png
+        Name: cockpitYellow_3
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6ae9185c06b99de60f0d092af3b08548:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_4.png
+        Name: cockpitYellow_4
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 67}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3776f8999c6fae36cd6de5a38ec9d86e:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_5.png
+        Name: cockpitYellow_5
+        TextureRegion: {X: 0, Y: 0, Width: 41, Height: 71}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1624c15a70fb07f27a8eb7c101813900:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_6.png
+        Name: cockpitYellow_6
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 56}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    26d1b678bcbd40e2463eda20a5df1a11:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/cockpitYellow_7.png
+        Name: cockpitYellow_7
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fae1e681ade207a4c939c9ced2574f62:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/engine1.png
+        Name: engine1
+        TextureRegion: {X: 0, Y: 0, Width: 38, Height: 23}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    21fb33189fc109a88759f5139d98d4e3:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/engine2.png
+        Name: engine2
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 28}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8c200e3dbfcfeb05db9686aca2d1adfe:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/engine3.png
+        Name: engine3
+        TextureRegion: {X: 0, Y: 0, Width: 27, Height: 22}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    beaaa03fca1084517e67c4def10d4429:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/engine4.png
+        Name: engine4
+        TextureRegion: {X: 0, Y: 0, Width: 49, Height: 45}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    24297c58efd9aa0d242b6c5ab3d43903:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/engine5.png
+        Name: engine5
+        TextureRegion: {X: 0, Y: 0, Width: 44, Height: 24}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a578fef11c47429da99f0242c8b543bb:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun00.png
+        Name: gun00
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 36}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0c5a4e1f9f0a74462a38c392732093ac:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun01.png
+        Name: gun01
+        TextureRegion: {X: 0, Y: 0, Width: 17, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d684144a6ae9eeb78b41a7b1180a8658:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun02.png
+        Name: gun02
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 36}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    56c41356337f55fa69c18f29d9374530:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun03.png
+        Name: gun03
+        TextureRegion: {X: 0, Y: 0, Width: 20, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    56807b73f708ff72efb17d7cce56666d:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun04.png
+        Name: gun04
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b1f0545d57dd3294e45cecbe22789411:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun05.png
+        Name: gun05
+        TextureRegion: {X: 0, Y: 0, Width: 21, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cae8a92971cc3142c038bba6e0e87964:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun06.png
+        Name: gun06
+        TextureRegion: {X: 0, Y: 0, Width: 17, Height: 38}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    71d4fff8d685f4f1a65461a8de5edc86:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun07.png
+        Name: gun07
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2c5bb476b1863ef59bc2bc514cf053aa:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun08.png
+        Name: gun08
+        TextureRegion: {X: 0, Y: 0, Width: 10, Height: 47}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    39ce476d75713eb1a2c9b2102fdf34db:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun09.png
+        Name: gun09
+        TextureRegion: {X: 0, Y: 0, Width: 20, Height: 52}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    34ab9a9233ffa513723be3e7a512fd54:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/gun10.png
+        Name: gun10
+        TextureRegion: {X: 0, Y: 0, Width: 20, Height: 52}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    455389fbe4c499412a34b18828889619:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/scratch1.png
+        Name: scratch1
+        TextureRegion: {X: 0, Y: 0, Width: 21, Height: 16}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a01bcaba75b3d25f0f68f95231398da9:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/scratch2.png
+        Name: scratch2
+        TextureRegion: {X: 0, Y: 0, Width: 21, Height: 16}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5c22d2039113a896d82616b41b3cf9f8:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/scratch3.png
+        Name: scratch3
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 12}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    84226f76f5ff7b22d0cfc2f0cb86ef54:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/turretBase_big.png
+        Name: turretBase_big
+        TextureRegion: {X: 0, Y: 0, Width: 41, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0d67c60bdb7cba21f3c5e5ce8a368b67:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/turretBase_small.png
+        Name: turretBase_small
+        TextureRegion: {X: 0, Y: 0, Width: 26, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    df8c13a3e3c2b5eeefbe41afb3d8bc23:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_0.png
+        Name: wingBlue_0
+        TextureRegion: {X: 0, Y: 0, Width: 45, Height: 78}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a247aa52034d8670c14fb3d5b93c9d87:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_1.png
+        Name: wingBlue_1
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 72}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    93bafceca0059951a8bddf0d5572074d:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_2.png
+        Name: wingBlue_2
+        TextureRegion: {X: 0, Y: 0, Width: 26, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    46db84aea3eb9a6e05512774dcc373ff:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_3.png
+        Name: wingBlue_3
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ae9d62cd1274509bd0ebfc7b6235af1d:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_4.png
+        Name: wingBlue_4
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e5b8a5e67ab5560e786d36158cb2cc4d:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_5.png
+        Name: wingBlue_5
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 69}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e154e6d73f4159a63a5f88e0f5bbc8da:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_6.png
+        Name: wingBlue_6
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 74}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6062268aa43b63053bd80875e74284ef:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingBlue_7.png
+        Name: wingBlue_7
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 83}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    baa631e99acd5d279eb4dd02826ec8d2:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_0.png
+        Name: wingGreen_0
+        TextureRegion: {X: 0, Y: 0, Width: 45, Height: 78}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    db34545fb161838a4326f6a0ed9ad8c4:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_1.png
+        Name: wingGreen_1
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 72}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4f4b8fe38b17def80beda1207a8dd6a2:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_2.png
+        Name: wingGreen_2
+        TextureRegion: {X: 0, Y: 0, Width: 26, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    36c264f6cbc5d9f977f497f0f3e2e70c:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_3.png
+        Name: wingGreen_3
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    aeef3048abb7ae83ccfe2ed63a5b2861:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_4.png
+        Name: wingGreen_4
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3b9e66e925d4a06527fa7c70e0f0c08a:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_5.png
+        Name: wingGreen_5
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 69}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5fa2e4e6f7b9b70951dbfcca57aa0f2a:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_6.png
+        Name: wingGreen_6
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 74}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8652e527e70f4c0f9eef70f4b0f92c8f:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingGreen_7.png
+        Name: wingGreen_7
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 83}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    45517e4b42dbcd3dc366892f5a6c496b:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_0.png
+        Name: wingRed_0
+        TextureRegion: {X: 0, Y: 0, Width: 26, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5662d1d6952e0248a4793edd8f384947:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_1.png
+        Name: wingRed_1
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 72}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    20663f68345016d4f3b0e36144eef436:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_2.png
+        Name: wingRed_2
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ec9225ba1688e5f26d4675ee72dc1fa4:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_3.png
+        Name: wingRed_3
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    89c8c77ff058e1b89c61ec55cb6e62d0:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_4.png
+        Name: wingRed_4
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 69}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c117aa6e08468c37129693bb1c3ba4ed:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_5.png
+        Name: wingRed_5
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 74}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a70aab398b19d2ce851bab822f581571:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_6.png
+        Name: wingRed_6
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 83}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    faef735fb6232dee63cd31e781c94834:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingRed_7.png
+        Name: wingRed_7
+        TextureRegion: {X: 0, Y: 0, Width: 45, Height: 78}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0bca90bd5d6d5b3b8dba4fc0936782ab:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_0.png
+        Name: wingYellow_0
+        TextureRegion: {X: 0, Y: 0, Width: 45, Height: 78}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a829c43d790485bf0b3bae1c1cb81ea1:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_1.png
+        Name: wingYellow_1
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 72}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7f6f748563c8b2f68d4c8e27a2827faa:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_2.png
+        Name: wingYellow_2
+        TextureRegion: {X: 0, Y: 0, Width: 26, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0268836770af35170e959d2fe4f05f13:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_3.png
+        Name: wingYellow_3
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7dacc9b092e6208d366b75475db4282b:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_4.png
+        Name: wingYellow_4
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e09b4d521ae4f320682960fa3d045d4c:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_5.png
+        Name: wingYellow_5
+        TextureRegion: {X: 0, Y: 0, Width: 51, Height: 69}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f4529fb1d6c38c2ab7d243b764ebf350:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_6.png
+        Name: wingYellow_6
+        TextureRegion: {X: 0, Y: 0, Width: 42, Height: 74}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    acbc2a1ba782740a5114de3033aea6f8:
+        Source: ../../../../Resources/spaceshooter/PNG/Parts/wingYellow_7.png
+        Name: wingYellow_7
+        TextureRegion: {X: 0, Y: 0, Width: 43, Height: 83}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

@@ -1,0 +1,204 @@
+!SpriteSheet
+Id: aa2acd52-0827-472c-ae48-f8c78f89395b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    d3253b0c4e4ad123df0e11a07fb2aa4f:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/buttonBlue.png
+        Name: buttonBlue
+        TextureRegion: {X: 0, Y: 0, Width: 222, Height: 39}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    31fb86ecb67022dd0c4985f0336174f9:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/buttonGreen.png
+        Name: buttonGreen
+        TextureRegion: {X: 0, Y: 0, Width: 222, Height: 39}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    33f75a5d40c66b1de7b5c9aac5ca0c3a:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/buttonRed.png
+        Name: buttonRed
+        TextureRegion: {X: 0, Y: 0, Width: 222, Height: 39}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f3148f26290b90ec28f92fb71f13a745:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/buttonYellow.png
+        Name: buttonYellow
+        TextureRegion: {X: 0, Y: 0, Width: 222, Height: 39}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    41058f78bbe4f22e2a161711653857f2:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/cursor.png
+        Name: cursor
+        TextureRegion: {X: 0, Y: 0, Width: 30, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    481e276d9e39051eae0eee745e778b0f:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral0.png
+        Name: numeral0
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8de0032e6de927d138912e657760b981:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral1.png
+        Name: numeral1
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3afc5e0cebc45462e55736c134066b1c:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral2.png
+        Name: numeral2
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    841aa4652ce2ddb3f0059b2b54e41570:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral3.png
+        Name: numeral3
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5a89010aa1dda5a105832ead0c579477:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral4.png
+        Name: numeral4
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ac7845a6e6ec96ef966251b7b37d1c29:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral5.png
+        Name: numeral5
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5185f8e9e394929a811e6194719bb7d6:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral6.png
+        Name: numeral6
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    655e629980fadadc9b80b356e87235c2:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral7.png
+        Name: numeral7
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e0d62d16a31f9e057383b1b41f89e543:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral8.png
+        Name: numeral8
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fab75524d7099c640cd2793fa2e8daef:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeral9.png
+        Name: numeral9
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 19}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0d6d68a912b8ac32f68fe5ace98119fc:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/numeralX.png
+        Name: numeralX
+        TextureRegion: {X: 0, Y: 0, Width: 17, Height: 17}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5a222675d4c73ff9a0bc2afe0e5bbdad:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife1_blue.png
+        Name: playerLife1_blue
+        TextureRegion: {X: 0, Y: 0, Width: 33, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    428fb1e9619f23e34acb86b3ee77180d:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife1_green.png
+        Name: playerLife1_green
+        TextureRegion: {X: 0, Y: 0, Width: 33, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    312b9e23215e06882389f52ba7612d47:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife1_orange.png
+        Name: playerLife1_orange
+        TextureRegion: {X: 0, Y: 0, Width: 33, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    38b2a07ab9d87cb46b8ff8f8750e4118:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife1_red.png
+        Name: playerLife1_red
+        TextureRegion: {X: 0, Y: 0, Width: 33, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0abec2506cdfc6c769a75912229213a9:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife2_blue.png
+        Name: playerLife2_blue
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0ec18977f6c65255f1874f393607dfa0:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife2_green.png
+        Name: playerLife2_green
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c6cfdf8e0a13177d50bb758219c0bbbf:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife2_orange.png
+        Name: playerLife2_orange
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f4924e945f4ff36d1853f0b97828da76:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife2_red.png
+        Name: playerLife2_red
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    03e0c27d31a5f5fb9aae314a48bce8d7:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife3_blue.png
+        Name: playerLife3_blue
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    85eef2b7c83c0fba35ad5d32973f675b:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife3_green.png
+        Name: playerLife3_green
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6ed2c40ab17d1b68ad2325e5f9eb3c4a:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife3_orange.png
+        Name: playerLife3_orange
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    88bc8c41f6adf253e3edf9e623fa60cb:
+        Source: ../../../../Resources/spaceshooter/PNG/UI/playerLife3_red.png
+        Name: playerLife3_red
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 26}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

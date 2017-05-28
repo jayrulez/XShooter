@@ -1,0 +1,197 @@
+!SpriteSheet
+Id: 2bd0f3fc-fbc0-4985-8eb7-a617404e6c89
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    02452f91236692d796c5f20c67e9838d:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire00.png
+        Name: fire00
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    afd0651d309a8e2ffec0bcd5b36111ee:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire01.png
+        Name: fire01
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0f4d6a12d68e6547ba5af7f10d1cf0fd:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire02.png
+        Name: fire02
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 32}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    36def9f784c334382026c51b1c44be77:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire03.png
+        Name: fire03
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 34}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    72a6c834a856351adc6ff8f59ee2069c:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire04.png
+        Name: fire04
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a47915d973d47f3049eb1cd7749138ee:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire05.png
+        Name: fire05
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    877642c2a8e21af5f1f1216c5ce039ba:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire06.png
+        Name: fire06
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    09dacbeb48b910000758f321d4934e46:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire07.png
+        Name: fire07
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    758c8c1c8d34df7a9ac5dc7ceed47eee:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire08.png
+        Name: fire08
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0fc7aaa3f1894d62f20743267e3e4ca3:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire09.png
+        Name: fire09
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b1c35a26d6af4801e9b64ccefb1d9f68:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire10.png
+        Name: fire10
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 40}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    03be35b4d26b75fb629e63313d3fe240:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire11.png
+        Name: fire11
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    407e464beed1a0d9df8b13691d5cf7c3:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire12.png
+        Name: fire12
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 32}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f36b8e810127aa5bb76034ffaf22c047:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire13.png
+        Name: fire13
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 34}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fb73769e3c4dbaed1b8bc3e82f545577:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire14.png
+        Name: fire14
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b7090652ca325c164a95edf947b67718:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire15.png
+        Name: fire15
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    561143a7eb03daa2eda56436f70ff9c3:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire16.png
+        Name: fire16
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d9b31f26a805ead503ec61b1fa32d772:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire17.png
+        Name: fire17
+        TextureRegion: {X: 0, Y: 0, Width: 14, Height: 31}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    732f2d07712dfb6f7c2b90fe17604992:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire18.png
+        Name: fire18
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4e09d4aa655ae2764726f02b45cbf791:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/fire19.png
+        Name: fire19
+        TextureRegion: {X: 0, Y: 0, Width: 16, Height: 41}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b5ae1fc46b60da207e946e764ff48e22:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/shield1.png
+        Name: shield1
+        TextureRegion: {X: 0, Y: 0, Width: 133, Height: 108}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b42933407590a15cb3f19765c06ae111:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/shield2.png
+        Name: shield2
+        TextureRegion: {X: 0, Y: 0, Width: 143, Height: 119}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cec39db46fb460ea113905820c64bb36:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/shield3.png
+        Name: shield3
+        TextureRegion: {X: 0, Y: 0, Width: 144, Height: 137}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    11248c8512d1f55fe5c71480e8389455:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/speed.png
+        Name: speed
+        TextureRegion: {X: 0, Y: 0, Width: 7, Height: 108}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    66aa4cdd01fed8c70e132c772d544820:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/star1.png
+        Name: star1
+        TextureRegion: {X: 0, Y: 0, Width: 25, Height: 24}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    243bcf3b6ca43bab9e10694cf81ac561:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/star2.png
+        Name: star2
+        TextureRegion: {X: 0, Y: 0, Width: 25, Height: 24}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b53a279fe620bce7ec4c6d468304dfd7:
+        Source: ../../../../Resources/spaceshooter/PNG/Effects/star3.png
+        Name: star3
+        TextureRegion: {X: 0, Y: 0, Width: 24, Height: 24}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

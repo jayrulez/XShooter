@@ -1,0 +1,25 @@
+!PrefabAsset
+Id: 37cd595a-35e5-446c-a87a-b37ab4dd6957
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Hierarchy:
+    RootPartIds:
+        - b6cf82b0-58f6-4b59-b75b-4e8aa26f453e
+    Parts:
+        -   Entity:
+                Id: b6cf82b0-58f6-4b59-b75b-4e8aa26f453e
+                Name: Sprite
+                Components:
+                    4a652429a4b61990527a75af566383bd: !TransformComponent
+                        Id: b8287486-87c8-4cd8-b150-243f81673aca
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    b21eceadd31a8a1d24b7f28ee6d4e283: !SpriteComponent
+                        Id: e748abcc-1358-487e-9c43-f048524f1077
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: a91f46b0-82fe-48b2-a5ec-d6873a9ad97a:Sprites/EnemyExplosion
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    dfbe042ae10bfe3a7c081df9640b9151: !XShooter.EnemyExplosionScript,XShooter.Game
+                        Id: 236815bc-f502-4853-9142-02007eb41709

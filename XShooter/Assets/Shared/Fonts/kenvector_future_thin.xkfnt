@@ -1,0 +1,12 @@
+!SpriteFont
+Id: dbc993cd-6cb4-484f-8f8d-5b61c4b62f44
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+FontSource: !FileFontProvider
+    Source: ../../../../Resources/spaceshooter/Bonus/kenvector_future_thin.ttf
+FontType: !SignedDistanceFieldSpriteFontType
+    CharacterSet: null
+    CharacterRegions:
+        8b76517ef394bb9534325f18580646af:
+            Start: ' '
+            End: "\x7F"

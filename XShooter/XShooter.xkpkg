@@ -1,0 +1,61 @@
+!Package
+Id: c7984f03-45ec-4150-bc09-2978dd5e923c
+SerializedVersion: {Assets: 0.0.4}
+Meta:
+    Name: XShooter
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: XShooter
+    Dependencies:
+        -   Name: Xenko
+            Version: 2.0.1.1
+            RootAssets: []
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+            -   Path: XShooter.Game/Effects
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: d4d37b5c-70ee-46a0-818d-c53db4de2aae
+                Location: XShooter.Game/XShooter.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 59838707-2354-4bd2-ab65-f999f960bc79
+                Location: XShooter.Windows/XShooter.Windows.csproj
+                Type: Executable
+    -   Name: Android
+        Platform: Android
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Android
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: d7c9cefb-d2d2-4d14-a290-2e02a1cf8d0b
+                Location: XShooter.Android/XShooter.Android.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets:
+    - 2c060838-85d5-42f0-afac-c2b70c48475d:Audio/FishLampByUlrick-EvensSalies
+    - 37cd595a-35e5-446c-a87a-b37ab4dd6957:EnemyExplosion
+    - 3a67caf7-77fe-4c53-b91d-3f6577774015:HealthUp
+    - 5633fdb2-8537-436f-b5a1-fe3902657f0b:GameHUD
+    - 778a1473-f5ec-4cfa-a3aa-c98ca2eceadd:EnemyShip
+    - a91f46b0-82fe-48b2-a5ec-d6873a9ad97a:Sprites/EnemyExplosion
+    - ca2e3f53-2cf5-4185-ac5f-9cffecd6e5b5:Audio/explosion
+    - cd56247a-7a33-46b4-b33b-3302d8c1672d:EnemyBullet
+    - ea4273f4-7ed7-4384-b35a-3fc55ec6deae:PlayerBullet
+    - f7dfb3d8-c83e-487a-a29c-8802e72bfce8:Player
+    - fd77a333-4cde-403d-bc5e-35cefea125ab:Sprites/PowerUps

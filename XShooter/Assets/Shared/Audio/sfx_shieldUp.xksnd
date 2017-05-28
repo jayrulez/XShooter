@@ -1,0 +1,8 @@
+!Sound
+Id: c5b60437-a47d-409e-83da-6b85c19d197f
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/spaceshooter/Bonus/sfx_shieldUp.ogg
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

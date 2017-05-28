@@ -1,0 +1,50 @@
+!PrefabAsset
+Id: 778a1473-f5ec-4cfa-a3aa-c98ca2eceadd
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Hierarchy:
+    RootPartIds:
+        - 7f13706e-5074-4ae7-a7b6-2b39b7b62512
+    Parts:
+        -   Entity:
+                Id: 7f13706e-5074-4ae7-a7b6-2b39b7b62512
+                Name: EnemyShip
+                Components:
+                    837ccb31edea77c090ddba7bace2c32a: !TransformComponent
+                        Id: ba8ee962-190f-4825-85ae-879668e52c84
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    52a81bca42aeb3e013aa2d443ac54f62: !SpriteComponent
+                        Id: 94ff87cf-2666-46c9-936f-6e2aef887536
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: 3e0b591c-9758-4efb-a500-ed2b802e8703:Sprites/Enemies
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    98dfca284f7fdef4a9873a9b09ea32e4: !RigidbodyComponent
+                        Id: fada617e-71c7-4f9e-b040-91363f497076
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: true
+                        IsKinematic: false
+                        Mass: 0.0
+                        LinearDamping: 0.0
+                        AngularDamping: 0.0
+                        OverrideGravity: false
+                        Gravity: {X: 0.0, Y: 0.0, Z: 0.0}
+                        NodeName: null
+                        ColliderShapes:
+                            c246bac7f0e25374c8716b3017bf9df1: !BoxColliderShapeDesc
+                                Is2D: true
+                                Size: {X: 0.9, Y: 0.8, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                    a5b63a558899ed767a1f4d8719d27403: !XShooter.EnemyShipScript,XShooter.Game
+                        Id: 3f7342bf-2be6-4fb4-b3c1-7ce0aa94aa8c
+                        DeathExplosion: ca2e3f53-2cf5-4185-ac5f-9cffecd6e5b5:Audio/explosion
+                    1df55508271b7c7d577a9f7ccc778806: !XShooter.EnemyCollisionScript,XShooter.Game
+                        Id: e6d23dad-90b9-49f7-97ec-45cf23893818

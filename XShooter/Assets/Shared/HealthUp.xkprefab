@@ -1,0 +1,48 @@
+!PrefabAsset
+Id: 3a67caf7-77fe-4c53-b91d-3f6577774015
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Hierarchy:
+    RootPartIds:
+        - 468a9bd9-913f-4431-827a-d8971ed6caf1
+    Parts:
+        -   Entity:
+                Id: 468a9bd9-913f-4431-827a-d8971ed6caf1
+                Name: HealthUp
+                Components:
+                    431c8744434034c59264e6e9a9430df0: !TransformComponent
+                        Id: eb5359cc-c754-4e3c-b559-0be4828a84c3
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    4b6af82eda989cdef985f9eac20eeeb7: !SpriteComponent
+                        Id: 056dff6c-a338-482f-9592-8d41c20d1f84
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: fd77a333-4cde-403d-bc5e-35cefea125ab:Sprites/PowerUps
+                            CurrentFrame: 3
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    d867f0dce8eaaed9f72081cc61d8d701: !RigidbodyComponent
+                        Id: 948fbc43-914f-4988-9fd7-008f59ddfe78
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: true
+                        IsKinematic: false
+                        Mass: 0.0
+                        LinearDamping: 0.0
+                        AngularDamping: 0.0
+                        OverrideGravity: false
+                        Gravity: {X: 0.0, Y: 0.0, Z: 0.0}
+                        NodeName: null
+                        ColliderShapes:
+                            5057fb70af7f5dc8b52761d70c4a1618: !BoxColliderShapeDesc
+                                Is2D: true
+                                Size: {X: 0.2, Y: 0.2, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                    ec3d6269c7185356b119e7848407b14b: !XShooter.HealthUpScript,XShooter.Game
+                        Id: 5b727154-5f1d-421a-8501-343e62899f4f

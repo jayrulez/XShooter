@@ -1,0 +1,8 @@
+!Sound
+Id: 4718eee2-4161-44c2-87c6-0bb7d85c19fd
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/spaceshooter/Bonus/sfx_laser1.ogg
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

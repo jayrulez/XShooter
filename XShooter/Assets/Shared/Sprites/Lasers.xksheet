@@ -1,0 +1,344 @@
+!SpriteSheet
+Id: 2d7a30df-e23c-41d8-97ed-a4eb2541a87c
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    abf7c17606740c957e4af5b68e0ebed5:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue01.png
+        Name: laserBlue01
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 54}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    596dfc6ae735ac07a16f100a38d6c14c:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue02.png
+        Name: laserBlue02
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a0167b991b84d0e1e3f4921671c4b446:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue03.png
+        Name: laserBlue03
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9b9831a04bbf38eb6b6b775e93731c82:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue04.png
+        Name: laserBlue04
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b2d1db4e27d503d17f6711183ddf0f73:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue05.png
+        Name: laserBlue05
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2f2e0f98f56e3877e6d1bb0ee1b7f6e5:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue06.png
+        Name: laserBlue06
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1a3fcf7e250bf8d049314860a58ef51f:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue07.png
+        Name: laserBlue07
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8c02d26959df2c9cf38b4d430ba25b8e:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue08.png
+        Name: laserBlue08
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 46}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    818734098dae62dcb9877a27f2a5b892:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue09.png
+        Name: laserBlue09
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 46}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    39e93d44204ba65eb6313bf9746fbba9:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue10.png
+        Name: laserBlue10
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    467a064268a34f5be5c3808ebed9e601:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue11.png
+        Name: laserBlue11
+        TextureRegion: {X: 0, Y: 0, Width: 38, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a6021a9c9e2a457d4a6be22f7dbe68dc:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue12.png
+        Name: laserBlue12
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    dbea6fa5aabe272c65b17d22cc7ba3d3:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue13.png
+        Name: laserBlue13
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3f26dcb24612c042a6041f4f2f80fb7c:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue14.png
+        Name: laserBlue14
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e3073efa38a365bc0b67bd0a8bef2ed3:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue15.png
+        Name: laserBlue15
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5cc21f2089e8a5fed68ea2114d8afaa5:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserBlue16.png
+        Name: laserBlue16
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 54}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    25c27eb7165272d114e72998f0db5e4a:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen01.png
+        Name: laserGreen01
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 38}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    bb999ee6527d549d7cafed59104aec45:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen02.png
+        Name: laserGreen02
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3afd3197e8b9e6f5608b531c567df163:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen03.png
+        Name: laserGreen03
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e1b4c010e251bcba25aed0d0dfdac991:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen04.png
+        Name: laserGreen04
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7d1c7b15d919d18312cbb64ccec9b4bd:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen05.png
+        Name: laserGreen05
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    19be4e9bb39d95c10e6bbefea65d426f:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen06.png
+        Name: laserGreen06
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b9db49add525354103ba3c7c4c477782:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen07.png
+        Name: laserGreen07
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b4ec967a9f04303c0ac6185f3228decb:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen08.png
+        Name: laserGreen08
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    62d972e424c829396224351e97de0042:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen09.png
+        Name: laserGreen09
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1f2f3c30f66352aa487837c6203e5e3e:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen10.png
+        Name: laserGreen10
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 54}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8241ba3a873bf84a11d69c5183d826c1:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen11.png
+        Name: laserGreen11
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 54}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cce736b8f2ca147f893db137060dbe15:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen12.png
+        Name: laserGreen12
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3e79b3b60cd3cdf51ee0c88d96d35d36:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen13.png
+        Name: laserGreen13
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    eb9fd638c26b31d0a2537ed964db0c85:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen14.png
+        Name: laserGreen14
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 46}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fd5a21a3d366d9c2971aee4b38b0228b:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen15.png
+        Name: laserGreen15
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 46}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    49b1351b357a860f74aa9d6d32a0d350:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserGreen16.png
+        Name: laserGreen16
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ff2266383068e4cabeac5aaffeaff0d4:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed01.png
+        Name: laserRed01
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 54}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5e4417a0b7117fb2a065ec007dd47b86:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed02.png
+        Name: laserRed02
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2e653ea2c6029bb09510c76f9657413e:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed03.png
+        Name: laserRed03
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6e76b44eb19a660d0c0269b135a860cd:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed04.png
+        Name: laserRed04
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9e85175379bebbccf260280147200be3:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed05.png
+        Name: laserRed05
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4538646538e6930ee040ffe72591034f:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed06.png
+        Name: laserRed06
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d404d9a56d0f11f172dfa463174a9110:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed07.png
+        Name: laserRed07
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    40d47055917510b2d16ae3cee61a56f4:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed08.png
+        Name: laserRed08
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 46}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1deb5fb0d07aa1d370bdb3af2876bdf2:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed09.png
+        Name: laserRed09
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 46}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    94a3213d43d29d5ddbd34c83dbc215ae:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed10.png
+        Name: laserRed10
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 36}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    100aa5ad9705f83cc24d7daae0af6332:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed11.png
+        Name: laserRed11
+        TextureRegion: {X: 0, Y: 0, Width: 37, Height: 37}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3c96f1ecba4f14fd7f51ce79fc6e00fa:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed12.png
+        Name: laserRed12
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9d75042d625debe3deebdc3ac46554a7:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed13.png
+        Name: laserRed13
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3d1c3d21cad0885b9f163f3673152302:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed14.png
+        Name: laserRed14
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4cbd75fff99819ae15db2fd9254ddffd:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed15.png
+        Name: laserRed15
+        TextureRegion: {X: 0, Y: 0, Width: 9, Height: 57}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    43722ffd80cff3b6e43297a31e0e8525:
+        Source: ../../../../Resources/spaceshooter/PNG/Lasers/laserRed16.png
+        Name: laserRed16
+        TextureRegion: {X: 0, Y: 0, Width: 13, Height: 54}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

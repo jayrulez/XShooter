@@ -1,0 +1,36 @@
+!SpriteSheet
+Id: 152ad746-c13b-4a43-9d05-6bf556d3121b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    d1b579d143402d643598e1c80117031c:
+        Source: ../../../../Resources/spaceshooter/Backgrounds/black.png
+        Name: black
+        TextureRegion: {X: 0, Y: 0, Width: 256, Height: 256}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1085f564ec5ecf7ce07b9cbc3ca399e3:
+        Source: ../../../../Resources/spaceshooter/Backgrounds/blue.png
+        Name: blue
+        TextureRegion: {X: 0, Y: 0, Width: 256, Height: 256}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    162fc0742c4bc7a9c2965c5cb827e6c2:
+        Source: ../../../../Resources/spaceshooter/Backgrounds/darkPurple.png
+        Name: darkPurple
+        TextureRegion: {X: 0, Y: 0, Width: 256, Height: 256}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2a9bbc69e09c1e64eeab31d55c812db6:
+        Source: ../../../../Resources/spaceshooter/Backgrounds/purple.png
+        Name: purple
+        TextureRegion: {X: 0, Y: 0, Width: 256, Height: 256}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

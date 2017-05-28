@@ -1,0 +1,8 @@
+!Sound
+Id: fcf760e8-a158-4356-b66c-226fc3d882d6
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/spaceshooter/Bonus/sfx_twoTone.ogg
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

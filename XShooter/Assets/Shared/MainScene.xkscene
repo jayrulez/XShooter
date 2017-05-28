@@ -1,0 +1,243 @@
+!SceneAsset
+Id: 21d6f1c3-17c6-42fe-b889-3b1dbcb1b384
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+ChildrenIds: []
+Offset: {X: 0.0, Y: 0.0, Z: 0.0}
+Hierarchy:
+    RootPartIds:
+        - 9a3e97df-3e94-493c-8324-ab047149d935
+        - 97f757aa-9d6c-459b-a0e0-cdc6ca5397cc
+        - e571d55c-f1f2-4b15-aa1f-1c81cb0396bc
+        - 0da85d67-5162-4383-a986-35b3a4215b1e
+        - 505aa45f-b1d6-4b20-ba8c-697e79ff57ff
+        - dfd58bde-cc89-42fd-bb36-b189d7c3ce6e
+    Parts:
+        -   Folder: null
+            Entity:
+                Id: 0da85d67-5162-4383-a986-35b3a4215b1e
+                Name: Background
+                Components:
+                    258b589a0902554646818534916317b8: !TransformComponent
+                        Id: 3bae2f14-31b0-494c-8a97-3ea38020c0bc
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    c188f2cf860c29c2232585b00bffc9fe: !SpriteComponent
+                        Id: 0f2649ff-6e92-4de6-97bc-5b3176cbf74d
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: f2cbe1a6-6300-4686-9064-59586684e349:Sprites/LevelBackgrounds
+                            CurrentFrame: 3
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    1672bac752c31669dabfbf1b67fcfc7b: !XShooter.BackgroundScript,XShooter.Game
+                        Id: 12899fa7-60c0-4553-b5ad-e08a07db4465
+                        ScrollSpeed: 1.0
+                        TileSize: 8.0
+        -   Folder: null
+            Entity:
+                Id: 14b6fff4-acbe-4f78-ab0c-fb3be246130d
+                Name: Bottom
+                Components:
+                    29053347375777742b7afe4fa99e023f: !TransformComponent
+                        Id: 9c5ddbab-cdf3-4778-9978-98878399f7ff
+                        Position: {X: 0.0, Y: -4.25, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    730d60ce94a6e686726251982e37cfe1: !StaticColliderComponent
+                        Id: 3b91038a-8258-47e8-9c66-197735eb4706
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: false
+                        ColliderShapes:
+                            54979eaf7db331e65a14293b7df96ad4: !BoxColliderShapeDesc
+                                Is2D: false
+                                Size: {X: 4.8, Y: 0.5, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+        -   Entity:
+                Id: 25ca065c-5e76-4035-9a60-20ad249bd75f
+                Name: PlayerSpawn
+                Components:
+                    52ffda0f8bc0003b2ccdbab8f8808810: !TransformComponent
+                        Id: 5be144a5-d1f7-48ed-bbaa-8159ab593999
+                        Position: {X: 0.0, Y: -3.5, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Entity:
+                Id: 505aa45f-b1d6-4b20-ba8c-697e79ff57ff
+                Name: GameHUD
+                Components:
+                    1e847379e010a6e1e6c24431600c3b4b: !TransformComponent
+                        Id: ffc493e4-d682-4f7c-8834-2189cb9426e6
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    370970fc91065ee6354a8eeb13c9938f: !UIComponent
+                        Id: 4ae83d65-d4ca-47f9-93ae-88e5de3ed8c6
+                        Page: 5633fdb2-8537-436f-b5a1-fe3902657f0b:GameHUD
+                        Resolution: {X: 480.0, Y: 800.0, Z: 1000.0}
+                        Size: {X: 1.0, Y: 1.0, Z: 1.0}
+        -   Folder: null
+            Entity:
+                Id: 8e9fb16b-4123-42b2-b4b6-05761efa6aca
+                Name: Right
+                Components:
+                    29053347375777742b7afe4fa99e023f: !TransformComponent
+                        Id: 9d99493a-439f-4855-99ee-966c8fa32e72
+                        Position: {X: 2.65, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    11ba21a4d4f6fbbe476d14479f199090: !StaticColliderComponent
+                        Id: 5e3db9c9-423b-405c-b038-a1a2d7010208
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: false
+                        ColliderShapes:
+                            a348362bd77b618a780863fa15712e95: !BoxColliderShapeDesc
+                                Is2D: false
+                                Size: {X: 0.5, Y: 8.0, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+        -   Entity:
+                Id: 97f757aa-9d6c-459b-a0e0-cdc6ca5397cc
+                Name: Camera
+                Components:
+                    ceda934d7e8672dda75ae2692f9e9dc8: !TransformComponent
+                        Id: 5f79a987-352e-41a8-9554-d224ef3ab88f
+                        Position: {X: 0.0, Y: 0.0, Z: 20.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    66c803033929fb963294c6cc94d7b551: !CameraComponent
+                        Id: ed1b5c06-53fa-4705-987e-3c8417ae77a6
+                        Name: null
+                        Projection: Orthographic
+                        OrthographicSize: 8.0
+                        Slot: 0079af9a-c96c-4062-b311-9ccf2829c25d
+        -   Entity:
+                Id: 9a3e97df-3e94-493c-8324-ab047149d935
+                Name: Borders
+                Components:
+                    5bba5bd45c7cb75b583ae34e35ae329c: !TransformComponent
+                        Id: 9909cfb2-cf24-4a61-abf8-fd52e8d0794f
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children:
+                            0c3c261672b3188687cec766f35bebf6: ref!! e0227bdb-7f60-4535-8613-8eba51471467
+                            b20bb65687dbfb69c687731628880005: ref!! 9d99493a-439f-4855-99ee-966c8fa32e72
+                            35118061c99c672f11f00253b1dd4cfa: ref!! b05ca45b-588d-44b8-8664-e8d768ff6316
+                            44d454def7f96d7ed0f01af5f9e75a53: ref!! 9c5ddbab-cdf3-4778-9978-98878399f7ff
+        -   Folder: null
+            Entity:
+                Id: b37f6bb3-f5e2-4cf8-b3d9-05d2abda05f7
+                Name: Top
+                Components:
+                    29053347375777742b7afe4fa99e023f: !TransformComponent
+                        Id: b05ca45b-588d-44b8-8664-e8d768ff6316
+                        Position: {X: 0.0, Y: 4.25, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    463317b2a8c1fb960c4091aa48276227: !StaticColliderComponent
+                        Id: 8709dac1-cf9c-43d9-8080-f2168b3bc6bd
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: false
+                        ColliderShapes:
+                            9650c1e7fb1c6c1bc66d20bd1c486b5a: !BoxColliderShapeDesc
+                                Is2D: false
+                                Size: {X: 4.8, Y: 0.5, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+        -   Entity:
+                Id: dd04df7c-3bc2-48e7-a6ef-66c289ecc0b4
+                Name: Left
+                Components:
+                    29053347375777742b7afe4fa99e023f: !TransformComponent
+                        Id: e0227bdb-7f60-4535-8613-8eba51471467
+                        Position: {X: -2.65, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    047e71c49c6e524f7bfc43cc96d10607: !StaticColliderComponent
+                        Id: a91f6699-1d8d-48d3-a309-b21efc444239
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: false
+                        ColliderShapes:
+                            20138e3aff0cf55c407a88ff175b1586: !BoxColliderShapeDesc
+                                Is2D: false
+                                Size: {X: 0.5, Y: 8.0, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+        -   Entity:
+                Id: dfd58bde-cc89-42fd-bb36-b189d7c3ce6e
+                Name: LevelManager
+                Components:
+                    1274ffa7ae104883701c8695993550e2: !TransformComponent
+                        Id: 7f5a6f2f-94de-4844-bc62-655738a76186
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children:
+                            776d1cb069670c5e66ba8e95a440711b: ref!! 5be144a5-d1f7-48ed-bbaa-8159ab593999
+                            0b670e6377d612dde5dc50e144d6a430: ref!! c8e20f9a-9bf0-42c5-bae1-ef517378f713
+                    57e48ee0e63a86179dbaec33ea0dc173: !XShooter.LevelManagerScript,XShooter.Game
+                        Id: 3f53d869-5aa1-4caa-a4f7-4cde3522bb34
+                        PlayerSpawn: ref!! 5be144a5-d1f7-48ed-bbaa-8159ab593999
+                        TopSpawn: ref!! c8e20f9a-9bf0-42c5-bae1-ef517378f713
+                        GameHUD: 5633fdb2-8537-436f-b5a1-fe3902657f0b:GameHUD
+                        BackgroundMusic: 2c060838-85d5-42f0-afac-c2b70c48475d:Audio/FishLampByUlrick-EvensSalies
+                        EnemyWaveSpawnWait: 3.0
+        -   Entity:
+                Id: e571d55c-f1f2-4b15-aa1f-1c81cb0396bc
+                Name: Background
+                Components:
+                    258b589a0902554646818534916317b8: !TransformComponent
+                        Id: e1d58071-cfc5-4faa-8542-2123a33a83c5
+                        Position: {X: 0.0, Y: 8.0, Z: 0.0}
+                        Rotation: {X: -4.371139E-08, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    c188f2cf860c29c2232585b00bffc9fe: !SpriteComponent
+                        Id: 3bfd7bae-ca5f-448c-9ff6-b88f8d98ce15
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: f2cbe1a6-6300-4686-9064-59586684e349:Sprites/LevelBackgrounds
+                            CurrentFrame: 3
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    4965800122e4df7ea05cdefda4cc3e69: !XShooter.BackgroundScript,XShooter.Game
+                        Id: b45effd4-c170-4bcf-b381-b4e71475d897
+                        ScrollSpeed: 1.0
+                        TileSize: 8.0
+        -   Entity:
+                Id: fa07223d-076f-4a94-b7d4-6395b75b3b3a
+                Name: TopSpawn
+                Components:
+                    e608bb25bf9a97a1d1eb838bf97b6512: !TransformComponent
+                        Id: c8e20f9a-9bf0-42c5-bae1-ef517378f713
+                        Position: {X: 0.0, Y: 4.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}

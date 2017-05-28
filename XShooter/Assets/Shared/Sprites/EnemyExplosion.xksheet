@@ -1,0 +1,120 @@
+!SpriteSheet
+Id: a91f46b0-82fe-48b2-a5ec-d6873a9ad97a
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    e25f3e52f076ae227c1816c313dffabf:
+        Source: ../../../../Resources/explosion/0.png
+        Name: 0
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6fbde94718b92397bd561cee9668d53f:
+        Source: ../../../../Resources/explosion/1.png
+        Name: 1
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3c9ce3c202337064a4dba12ad85be7e0:
+        Source: ../../../../Resources/explosion/2.png
+        Name: 2
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3b63eaf62470a76ca988749f43835d91:
+        Source: ../../../../Resources/explosion/3.png
+        Name: 3
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fb75c1145a9fa8389ff518829bf3ec54:
+        Source: ../../../../Resources/explosion/4.png
+        Name: 4
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ef27249410d52231bdf679cca7f30428:
+        Source: ../../../../Resources/explosion/5.png
+        Name: 5
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4de64a4598aca4e035c3a1fdea533a8b:
+        Source: ../../../../Resources/explosion/6.png
+        Name: 6
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6a0cbc4792b639c52f890e83a5b19a9e:
+        Source: ../../../../Resources/explosion/7.png
+        Name: 7
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a25cc563bec22a8d079df24666cf7969:
+        Source: ../../../../Resources/explosion/8.png
+        Name: 8
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5590bd0c53acb5180e05bae291aaf81c:
+        Source: ../../../../Resources/explosion/9.png
+        Name: 9
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b20c2cf54e6ef6ca7057d10b403a1b7c:
+        Source: ../../../../Resources/explosion/10.png
+        Name: 10
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2f370fac69c4302aff0ae3e8c91bd424:
+        Source: ../../../../Resources/explosion/11.png
+        Name: 11
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    730fe759a95b283f7e4b0a452f855c46:
+        Source: ../../../../Resources/explosion/12.png
+        Name: 12
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e927aee6ef54298146d8f642e84c23cf:
+        Source: ../../../../Resources/explosion/13.png
+        Name: 13
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4872efdb3bbdc81d0e4eee02138eb76d:
+        Source: ../../../../Resources/explosion/14.png
+        Name: 14
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    37ae14cd975edb0a64a445a507627ead:
+        Source: ../../../../Resources/explosion/15.png
+        Name: 15
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

@@ -1,0 +1,225 @@
+!UIPageAsset
+Id: 5633fdb2-8537-436f-b5a1-fe3902657f0b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Design:
+    Resolution: {X: 480.0, Y: 800.0, Z: 1000.0}
+Hierarchy:
+    RootPartIds:
+        - 7ed2fbf1-b784-4be9-b10e-72dcd6c7099f
+    Parts:
+        -   UIElement: !ImageElement
+                Id: 2dba8d3c-469c-4b57-a303-37850389cab6
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Opacity: 0.75
+                Width: 40.0
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Top
+                Margin: {Left: 10.0, Top: 10.0, Bottom: 10.0}
+                Name: HealthImage
+                Source: !SpriteFromSheet
+                    Sheet: 6fc8284c-a476-4447-8fcf-c6b6b975818a:Sprites/Heart
+                Color: {R: 255, G: 255, B: 255, A: 255}
+        -   UIElement: !Button
+                Id: 37a39588-736c-43d1-a3c7-e1b65a28730d
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 40.0
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Top
+                Margin: {Left: 430.0, Top: 10.0}
+                Name: UnmuteButton
+                Padding: {Left: 10.0, Top: 10.0, Right: 10.0, Bottom: 10.0}
+                Content: !TextBlock ref!! d5fa5180-2b69-43ed-af0e-1c34a2db8b25
+                ClickMode: Press
+                PressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 8
+                NotPressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 8
+                MouseOverImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 8
+        -   UIElement: !Canvas
+                Id: 4c989ba9-9e9d-4008-9c1a-b4ee8f853b7c
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 480.0
+                Height: 60.0
+                VerticalAlignment: Top
+                Margin: {}
+                Name: TopBar
+                Children:
+                    5461d6202a5a1f9b12bd9238a1b4bef4: !Button ref!! 68b0d47a-9e15-4c01-afe1-cd8a17711eab
+                    0e3f76f0b61fffce6f65bd76114f2c20: !Button ref!! 37a39588-736c-43d1-a3c7-e1b65a28730d
+                    ec4c905b324e9fd7b27c4241ea447ae7: !Button ref!! 8c70b77a-20c3-43d7-bf2a-f3f85ea06278
+                    0e6812974f13086d9b8840ff754f0669: !Button ref!! 7f4fb964-202f-4969-8c87-85eb64493ace
+                    c3b709ea4633caafe19ebf3fe5c3788b: !TextBlock ref!! a805bf3b-b33d-4aec-91b9-866e1e53b412
+                    2c61d71f909f61755ddd6b7abef432a3: !TextBlock ref!! 80761e0f-a5d7-4292-9288-34b635326e97
+                    f7c0f270c2f4669387dd1543e2a88d5c: !ImageElement ref!! 2dba8d3c-469c-4b57-a303-37850389cab6
+        -   UIElement: !TextBlock
+                Id: 63dd7981-432e-4f5f-85c6-9de1e89781b1
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                HorizontalAlignment: Center
+                VerticalAlignment: Center
+                Margin: {}
+                Text: 
+                Font: c90f3988-0544-4cbe-993f-13af7d9c23c6:XenkoDefaultFont
+                TextSize: 20.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}
+        -   UIElement: !Button
+                Id: 68b0d47a-9e15-4c01-afe1-cd8a17711eab
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 40.0
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Top
+                Margin: {Left: 430.0, Top: 10.0}
+                Name: MuteButton
+                Padding: {Left: 10.0, Top: 10.0, Right: 10.0, Bottom: 10.0}
+                Content: !TextBlock ref!! 87cbfb34-af81-456f-b584-669c59746041
+                ClickMode: Press
+                PressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 10
+                NotPressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 10
+                MouseOverImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 10
+        -   UIElement: !UniformGrid
+                Id: 7ed2fbf1-b784-4be9-b10e-72dcd6c7099f
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                Children:
+                    751397704019132ea859ec7b51acb4eb: !Canvas ref!! 4c989ba9-9e9d-4008-9c1a-b4ee8f853b7c
+        -   UIElement: !Button
+                Id: 7f4fb964-202f-4969-8c87-85eb64493ace
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 40.0
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Top
+                Margin: {Left: 379.0, Top: 10.0}
+                Name: PlayButton
+                Padding: {Left: 10.0, Top: 10.0, Right: 10.0, Bottom: 10.0}
+                Content: !TextBlock ref!! 63dd7981-432e-4f5f-85c6-9de1e89781b1
+                ClickMode: Press
+                PressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 11
+                NotPressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 11
+                MouseOverImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 11
+        -   UIElement: !TextBlock
+                Id: 80761e0f-a5d7-4292-9288-34b635326e97
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Opacity: 0.6
+                Width: 29.1210938
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Top
+                Margin: {Left: 55.0, Top: 10.0, Bottom: 10.0}
+                Name: HealthText
+                Text: 0
+                Font: 268b56ee-7f9b-49b3-8db7-6c6a6f4035b4:Fonts/kenvector_future
+                TextSize: 20.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}
+        -   UIElement: !TextBlock
+                Id: 87cbfb34-af81-456f-b584-669c59746041
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                HorizontalAlignment: Center
+                VerticalAlignment: Center
+                Margin: {}
+                Text: 
+                Font: c90f3988-0544-4cbe-993f-13af7d9c23c6:XenkoDefaultFont
+                TextSize: 20.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}
+        -   UIElement: !Button
+                Id: 8c70b77a-20c3-43d7-bf2a-f3f85ea06278
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 40.0
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Top
+                Margin: {Left: 379.0, Top: 10.0}
+                Name: PauseButton
+                Padding: {Left: 10.0, Top: 10.0, Right: 10.0, Bottom: 10.0}
+                Content: !TextBlock ref!! d8e6e22a-2619-4306-9643-e724d74dbba4
+                ClickMode: Press
+                PressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 9
+                NotPressedImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 9
+                MouseOverImage: !SpriteFromSheet
+                    Sheet: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7:Sprites/ControlUI
+                    CurrentFrame: 9
+        -   UIElement: !TextBlock
+                Id: a805bf3b-b33d-4aec-91b9-866e1e53b412
+                DependencyProperties:
+                    ac91dfdaae374f4e784f570a30881677~Canvas.UseAbsolutePositionPropertyKey: true
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Opacity: 0.6
+                Width: 120.0
+                Height: 40.0
+                HorizontalAlignment: Left
+                VerticalAlignment: Center
+                DepthAlignment: Front
+                Margin: {Left: 180.0, Top: 10.0, Right: 180.0, Bottom: 10.0}
+                MinimumWidth: 120.0
+                MinimumHeight: 40.0
+                DefaultWidth: 120.0
+                DefaultHeight: 40.0
+                Name: ScoreText
+                Text: 0
+                Font: 268b56ee-7f9b-49b3-8db7-6c6a6f4035b4:Fonts/kenvector_future
+                TextSize: 35.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}
+                TextAlignment: Center
+        -   UIElement: !TextBlock
+                Id: d5fa5180-2b69-43ed-af0e-1c34a2db8b25
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                HorizontalAlignment: Center
+                VerticalAlignment: Center
+                Margin: {}
+                Text: 
+                Font: c90f3988-0544-4cbe-993f-13af7d9c23c6:XenkoDefaultFont
+                TextSize: 20.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}
+        -   UIElement: !TextBlock
+                Id: d8e6e22a-2619-4306-9643-e724d74dbba4
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                HorizontalAlignment: Center
+                VerticalAlignment: Center
+                Margin: {}
+                Text: 
+                Font: c90f3988-0544-4cbe-993f-13af7d9c23c6:XenkoDefaultFont
+                TextSize: 20.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}

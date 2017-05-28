@@ -1,0 +1,148 @@
+!SpriteSheet
+Id: 3e0b591c-9758-4efb-a500-ed2b802e8703
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    c5c06d4aacde9a3c8867c1a7d579d047:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlack1.png
+        Name: enemyBlack1
+        TextureRegion: {X: 0, Y: 0, Width: 93, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1f3c65373b362d6b129e788a6eff3de3:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlack2.png
+        Name: enemyBlack2
+        TextureRegion: {X: 0, Y: 0, Width: 104, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6d28157881e4599c1343e88c3b6adc87:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlack3.png
+        Name: enemyBlack3
+        TextureRegion: {X: 0, Y: 0, Width: 103, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    132f00d557a09921fea5d47fc70fa2b2:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlack4.png
+        Name: enemyBlack4
+        TextureRegion: {X: 0, Y: 0, Width: 82, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3488d8d5964e6e4c131ca079b8a17055:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlack5.png
+        Name: enemyBlack5
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b6f25d19b708c7cc34a2ce971ba72416:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlue1.png
+        Name: enemyBlue1
+        TextureRegion: {X: 0, Y: 0, Width: 93, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    aeec80ed6d631370d031ffae82565ae7:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlue2.png
+        Name: enemyBlue2
+        TextureRegion: {X: 0, Y: 0, Width: 104, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8f684ec27fec8099a21f42249e75fb38:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlue3.png
+        Name: enemyBlue3
+        TextureRegion: {X: 0, Y: 0, Width: 103, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7d8318f778d47653a4e7b19e2c432cbd:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlue4.png
+        Name: enemyBlue4
+        TextureRegion: {X: 0, Y: 0, Width: 82, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4d08639eb006c69c0889dfffac8f7f1c:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyBlue5.png
+        Name: enemyBlue5
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4faa00c357764005f989342a14913c8d:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyGreen1.png
+        Name: enemyGreen1
+        TextureRegion: {X: 0, Y: 0, Width: 93, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ae88506ab7885a66b38d9086515b3ea5:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyGreen2.png
+        Name: enemyGreen2
+        TextureRegion: {X: 0, Y: 0, Width: 104, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2f7943eb8069aaeb9efc74c9ca78cc8c:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyGreen3.png
+        Name: enemyGreen3
+        TextureRegion: {X: 0, Y: 0, Width: 103, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b9c2cfe75bac65fac738221432244b38:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyGreen4.png
+        Name: enemyGreen4
+        TextureRegion: {X: 0, Y: 0, Width: 82, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fe76e8bd02f534bca540319fc1905c82:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyGreen5.png
+        Name: enemyGreen5
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a2841f5feec4e037fb06574a29c405df:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyRed1.png
+        Name: enemyRed1
+        TextureRegion: {X: 0, Y: 0, Width: 93, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e2144f0e0ad602c3a95242acd02c7bb4:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyRed2.png
+        Name: enemyRed2
+        TextureRegion: {X: 0, Y: 0, Width: 104, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    07b23e5f3ab815878edef7a91de03f1e:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyRed3.png
+        Name: enemyRed3
+        TextureRegion: {X: 0, Y: 0, Width: 103, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    bff7f313d80ecd2948f94a36dcd6dc0a:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyRed4.png
+        Name: enemyRed4
+        TextureRegion: {X: 0, Y: 0, Width: 82, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c25280209c95bb4fd8237d31ddbbdf01:
+        Source: ../../../../Resources/spaceshooter/PNG/Enemies/enemyRed5.png
+        Name: enemyRed5
+        TextureRegion: {X: 0, Y: 0, Width: 97, Height: 84}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

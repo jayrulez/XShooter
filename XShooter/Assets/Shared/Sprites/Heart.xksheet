@@ -1,0 +1,15 @@
+!SpriteSheet
+Id: 6fc8284c-a476-4447-8fcf-c6b6b975818a
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: UI
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    3023026e8fdc37e41833fc206bdf0400:
+        Source: ../../../../Resources/heart2.png
+        Name: heart2
+        TextureRegion: {X: 0, Y: 0, Width: 258, Height: 242}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

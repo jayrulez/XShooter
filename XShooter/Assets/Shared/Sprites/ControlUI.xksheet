@@ -1,0 +1,358 @@
+!SpriteSheet
+Id: 96f4fa80-8ce6-4e9b-bf90-d86c5e9eb1c7
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: UI
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    16452e147fe9d5f85543b829bf7b24cf:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark00.png
+        Name: lineDark00
+        TextureRegion: {X: 0, Y: 0, Width: 76, Height: 61}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3afe4f7bbbf258303d2616347849a026:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark01.png
+        Name: lineDark01
+        TextureRegion: {X: 0, Y: 0, Width: 75, Height: 61}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3defc809a83edbc909bef4de3db53784:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark02.png
+        Name: lineDark02
+        TextureRegion: {X: 0, Y: 0, Width: 160, Height: 160}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0ce2f5de23ceda56f43cb372ad8ce936:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark03.png
+        Name: lineDark03
+        TextureRegion: {X: 0, Y: 0, Width: 160, Height: 160}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7613f52dc9be3717602e59190a122d85:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark04.png
+        Name: lineDark04
+        TextureRegion: {X: 0, Y: 0, Width: 160, Height: 160}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0b387b763e9b638bcb5bd61ca76cd692:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark05.png
+        Name: lineDark05
+        TextureRegion: {X: 0, Y: 0, Width: 61, Height: 75}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5715ea13df494d1c05bdcafcc3ad130f:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark06.png
+        Name: lineDark06
+        TextureRegion: {X: 0, Y: 0, Width: 160, Height: 160}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1557ceaf9f805f3d301e70bb1a844a75:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark07.png
+        Name: lineDark07
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1032343db036815ad0c7951802985cf4:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark08.png
+        Name: lineDark08
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    614af5686341b79e70d1c61813c6f316:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark09.png
+        Name: lineDark09
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    71038bd0238b028a213f30f4d65e948b:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark10.png
+        Name: lineDark10
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    977c73904a0d3b353f803e6098dbda73:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark11.png
+        Name: lineDark11
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5cd1282427e7dedc7ec64437c6b96587:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark12.png
+        Name: lineDark12
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    534724b574610393de1bf37e9fb8d8aa:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark13.png
+        Name: lineDark13
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ccb6951ea36d9e064430949d1ce91f98:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark14.png
+        Name: lineDark14
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d03c23f94a4475de115522cfc914db83:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark15.png
+        Name: lineDark15
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d6f4bfc010fa9c75665f64db4d705338:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark16.png
+        Name: lineDark16
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2767f41ca8b0e4f9c767bf8f7e5342ff:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark17.png
+        Name: lineDark17
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a10396e2ee54e95e7fba2492528a8340:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark18.png
+        Name: lineDark18
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b4abfb8a6ce92025cc451c2ab5d97000:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark19.png
+        Name: lineDark19
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cbd0e79c93b76c4ba8545b4fb6d2ffae:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark20.png
+        Name: lineDark20
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    37f43c711f6a3f386145ef64254122e1:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark21.png
+        Name: lineDark21
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    85e7e63955d68dafb46e863d695201f2:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark22.png
+        Name: lineDark22
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4b96eda51436ba77157c6f1c690976bf:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark23.png
+        Name: lineDark23
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1096f333823435501e3b3a59cc09d429:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark24.png
+        Name: lineDark24
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1389d9ed70db431434ef33cce808031b:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark25.png
+        Name: lineDark25
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8ec1f04717266de90a2b6ec71a6da99d:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark26.png
+        Name: lineDark26
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1d1bbd409fa3df9638f40709dbe6ebac:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark27.png
+        Name: lineDark27
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a0b76b076c3563f9c209a920c5e73f36:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark28.png
+        Name: lineDark28
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    55904cd40f4f920018ef0d1acbb2bad1:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark29.png
+        Name: lineDark29
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    94f72d04143dd12803390e7b8c1c86f9:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark30.png
+        Name: lineDark30
+        TextureRegion: {X: 0, Y: 0, Width: 48, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f898af368c329d3f000127123cdf95c4:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark31.png
+        Name: lineDark31
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1877c144efbe491747fab8c6bbbf0f89:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark32.png
+        Name: lineDark32
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f052a9746ca1b31934480d0ef202a635:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark33.png
+        Name: lineDark33
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    78926e0d8c685ef83d0f8b28c5eab493:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark34.png
+        Name: lineDark34
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1b2f1a4c12f3f0155bdd4afca097bc4c:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark35.png
+        Name: lineDark35
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    71511cb2d7b7048806a3595051bfe3e8:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark36.png
+        Name: lineDark36
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6e4987005e92521d02a950ced5d4a5a6:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark37.png
+        Name: lineDark37
+        TextureRegion: {X: 0, Y: 0, Width: 108, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    bb6703429e9e2bc40370a8d0e55a2e43:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark38.png
+        Name: lineDark38
+        TextureRegion: {X: 0, Y: 0, Width: 108, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    198937e8de0321e9ce37c0f0228de6df:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark39.png
+        Name: lineDark39
+        TextureRegion: {X: 0, Y: 0, Width: 108, Height: 48}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    14027a25cc4f7d023d792637be767215:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark40.png
+        Name: lineDark40
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e1080e4e98c3cf8131ff11a45991e354:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark41.png
+        Name: lineDark41
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4ed8cb04f8ad6b6ce745e212d3021865:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark42.png
+        Name: lineDark42
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cf8f0ff08dfc3992ad88f5923e22c8ba:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark43.png
+        Name: lineDark43
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9da37bedd207760d3e9924c5e90fd4de:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark44.png
+        Name: lineDark44
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0eaf11a08c1da011b20a928de849283c:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark45.png
+        Name: lineDark45
+        TextureRegion: {X: 0, Y: 0, Width: 80, Height: 80}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f7089457bd7dbfa22f25cc70c1a7ec96:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark46.png
+        Name: lineDark46
+        TextureRegion: {X: 0, Y: 0, Width: 96, Height: 97}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d3c6f04d94899808891376e66972b665:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark47.png
+        Name: lineDark47
+        TextureRegion: {X: 0, Y: 0, Width: 96, Height: 96}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8f5c8f235b0cf3b7af0b2ae3deef66cd:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark48.png
+        Name: lineDark48
+        TextureRegion: {X: 0, Y: 0, Width: 61, Height: 76}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6abda41c976a0f929f6970e3847d6d8a:
+        Source: ../../../../Resources/onscreenControls/Sprites/lineDark/lineDark49.png
+        Name: lineDark49
+        TextureRegion: {X: 0, Y: 0, Width: 125, Height: 125}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

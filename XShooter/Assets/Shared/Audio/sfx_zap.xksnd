@@ -1,0 +1,8 @@
+!Sound
+Id: 956ab687-bf1e-4820-80e0-f9456ef5a83d
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/spaceshooter/Bonus/sfx_zap.ogg
+CompressionRatio: 15
+StreamFromDisk: false
+Spatialized: false

@@ -1,0 +1,59 @@
+!PrefabAsset
+Id: f7dfb3d8-c83e-487a-a29c-8802e72bfce8
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Hierarchy:
+    RootPartIds:
+        - 0391e908-58dc-4d9d-9213-ecc6a2d3dd81
+    Parts:
+        -   Entity:
+                Id: 0391e908-58dc-4d9d-9213-ecc6a2d3dd81
+                Name: PlayerShip
+                Components:
+                    50eb2303e6d1c254fcf6b5f358b6d4f4: !TransformComponent
+                        Id: 5be0afb4-cc61-4e00-ab32-8478906959a4
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children:
+                            021b47613e72e8e4a74e5e33b7029131: ref!! 554a7317-4d76-4432-9e7c-4587630bf180
+                    16c2eb0e06e3769043f5918f98c0d65e: !SpriteComponent
+                        Id: 4cbf2031-d21f-407a-b501-7cf9794e9aa8
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: fb18a84c-07aa-4531-a009-b5b021915303:Sprites/Player
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    0160a9c0e8fccdc3bc22502815971f33: !CharacterComponent
+                        Id: 27cf7efa-a5e5-428f-b944-2884f525bb07
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.0
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        FallSpeed: 10.0
+                        MaxSlope: {Radians: 0.7853982}
+                        JumpSpeed: 5.0
+                        Gravity: 0.0
+                        ColliderShapes:
+                            436fdbc4b37ca36a187e29f11dba5e36: !BoxColliderShapeDesc
+                                Is2D: true
+                                Size: {X: 1.0, Y: 0.8, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                    4df566edad223364b332277a6a85eb8a: !XShooter.PlayerScript,XShooter.Game
+                        Id: 985432d8-b36e-4eb0-971c-272727cad797
+                        ShotSound: 85056310-ee8b-4197-af2a-a8d7d4d3454b:Audio/sfx_laser2
+                        HealthUpSound: c5b60437-a47d-409e-83da-6b85c19d197f:Audio/sfx_shieldUp
+                        ShotReloadTime: 0.17
+                    2b1f7a65d48889bde64f53b5aaf8fd4f: !XShooter.PlayerCollisionScript,XShooter.Game
+                        Id: 628a7f9c-ea6d-4a67-a895-ed1f9afebcdf
+        -   Entity:
+                Id: 0a342b0a-4759-4a46-8483-39c5d359420f
+                Name: GunPosition
+                Components:
+                    81e23120de7e2baf586ce24dad733e3d: !TransformComponent
+                        Id: 554a7317-4d76-4432-9e7c-4587630bf180
+                        Position: {X: 0.0, Y: 0.4, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}

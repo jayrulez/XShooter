@@ -1,0 +1,47 @@
+!PrefabAsset
+Id: ea4273f4-7ed7-4384-b35a-3fc55ec6deae
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Hierarchy:
+    RootPartIds:
+        - 1d5ca57e-132f-4002-8aeb-21282bcf823a
+    Parts:
+        -   Entity:
+                Id: 1d5ca57e-132f-4002-8aeb-21282bcf823a
+                Name: PlayerBullet
+                Components:
+                    3b2889f728ffb5033fa72e85a0375ab4: !TransformComponent
+                        Id: d6f6a451-2cce-4703-8a57-5654aa4a0065
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    71ded8bb8dc40d66774f051938fca58a: !SpriteComponent
+                        Id: b4be620f-81da-4b85-a8e0-bd2e02e34d7c
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: 2d7a30df-e23c-41d8-97ed-a4eb2541a87c:Sprites/Lasers
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    47cc55db611edd3e10e6be920917eb85: !RigidbodyComponent
+                        Id: dfd1a8be-ce72-49a1-8552-e3a074415d08
+                        CanSleep: false
+                        Restitution: 0.0
+                        Friction: 0.5
+                        RollingFriction: 0.0
+                        CcdMotionThreshold: 0.0
+                        CcdSweptSphereRadius: 0.0
+                        IsTrigger: true
+                        IsKinematic: false
+                        Mass: 1.0
+                        LinearDamping: 0.0
+                        AngularDamping: 0.0
+                        OverrideGravity: false
+                        Gravity: {X: 0.0, Y: 0.0, Z: 0.0}
+                        NodeName: null
+                        ColliderShapes:
+                            28617346f2694cd97a537bb3d9872e42: !BoxColliderShapeDesc
+                                Is2D: true
+                                Size: {X: 0.1, Y: 0.5, Z: 1.0}
+                                LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+                                LocalRotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                    05c878dca124b57071032a44334fada9: !XShooter.PlayerBulletScript,XShooter.Game
+                        Id: 6aac3a15-b305-4e33-9bda-e609fd0a740a

@@ -1,0 +1,232 @@
+!SpriteSheet
+Id: fd77a333-4cde-403d-bc5e-35cefea125ab
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    02ea287659112aa1f91e3cc9cd560750:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/bold_silver.png
+        Name: bold_silver
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    85b1616f7ceec74db9e8c0fd4f8eac84:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/bolt_bronze.png
+        Name: bolt_bronze
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8b6588a3a426ba420663bb0ac04278b7:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/bolt_gold.png
+        Name: bolt_gold
+        TextureRegion: {X: 0, Y: 0, Width: 19, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0fd1bd43602b0a36ebd78499b332ea91:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/pill_blue.png
+        Name: pill_blue
+        TextureRegion: {X: 0, Y: 0, Width: 22, Height: 21}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4b9a05bb38f242a741d4749405c54ef1:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/pill_green.png
+        Name: pill_green
+        TextureRegion: {X: 0, Y: 0, Width: 22, Height: 21}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c81dba09ede9f1dac203b982424d476a:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/pill_red.png
+        Name: pill_red
+        TextureRegion: {X: 0, Y: 0, Width: 22, Height: 21}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1247a12c9ac1436bac20c94861c68eb9:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/pill_yellow.png
+        Name: pill_yellow
+        TextureRegion: {X: 0, Y: 0, Width: 22, Height: 21}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a9d599151412ca49f1b6ea576d3eeaee:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupBlue.png
+        Name: powerupBlue
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    19c6190cae7ce119f3367986f45cdced:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupBlue_bolt.png
+        Name: powerupBlue_bolt
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a17c9921f656f0e7bf8a3a0c391b581b:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupBlue_shield.png
+        Name: powerupBlue_shield
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e38ea0779600bfb63ec48b2ed6f635a2:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupBlue_star.png
+        Name: powerupBlue_star
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f3aac2552c4b40d4763c16a3cfba393e:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupGreen.png
+        Name: powerupGreen
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    825185222364a68c84a46c35623c5249:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupGreen_bolt.png
+        Name: powerupGreen_bolt
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ed3a4715cdc3ddb2af063463e19ccb14:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupGreen_shield.png
+        Name: powerupGreen_shield
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d22b9a9645cc6758cad3b6f1ef366bd3:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupGreen_star.png
+        Name: powerupGreen_star
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    11c6d93f4525aff4e6706165c77d592f:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupRed.png
+        Name: powerupRed
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    68ba97bff49385db547fd17e950cbefa:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupRed_bolt.png
+        Name: powerupRed_bolt
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7944b2ac51579b69ead5e22df55a2498:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupRed_shield.png
+        Name: powerupRed_shield
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e36fb7ae77f0c429843c69b4e4a94d46:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupRed_star.png
+        Name: powerupRed_star
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    05ae5198930b069b7c7855c3922069e1:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupYellow.png
+        Name: powerupYellow
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b3827fa9be63b6919b708a5cd8b52cda:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupYellow_bolt.png
+        Name: powerupYellow_bolt
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1bab58057b55d56ee233872866b31710:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupYellow_shield.png
+        Name: powerupYellow_shield
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7983f91afc0b437c654a5be46dcafc9d:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/powerupYellow_star.png
+        Name: powerupYellow_star
+        TextureRegion: {X: 0, Y: 0, Width: 34, Height: 33}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    46dbc19ce2eff66cda5e622f6e28aca7:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/shield_bronze.png
+        Name: shield_bronze
+        TextureRegion: {X: 0, Y: 0, Width: 30, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7fcc62f559e7c7d6d3d72be9bd4a443d:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/shield_gold.png
+        Name: shield_gold
+        TextureRegion: {X: 0, Y: 0, Width: 30, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    32c76abb70ab81f63a0942df3d360ffd:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/shield_silver.png
+        Name: shield_silver
+        TextureRegion: {X: 0, Y: 0, Width: 30, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fe2b63604edf5728823a2b916b6a6d4c:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/star_bronze.png
+        Name: star_bronze
+        TextureRegion: {X: 0, Y: 0, Width: 31, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2d78f3fa573101b102cf00814e8fd502:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/star_gold.png
+        Name: star_gold
+        TextureRegion: {X: 0, Y: 0, Width: 31, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e16a950d3e44188f771013bb261e181e:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/star_silver.png
+        Name: star_silver
+        TextureRegion: {X: 0, Y: 0, Width: 31, Height: 30}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8b06cdf01ce5ab86ec23293bdf7ab62a:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/things_bronze.png
+        Name: things_bronze
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 32}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9291d413a686f52cfddad073e572a521:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/things_gold.png
+        Name: things_gold
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 32}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0e6577234db1197011aa2ab2a4b9b29e:
+        Source: ../../../../Resources/spaceshooter/PNG/Power-ups/things_silver.png
+        Name: things_silver
+        TextureRegion: {X: 0, Y: 0, Width: 32, Height: 32}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
